@@ -10,6 +10,6 @@ I have mainly worked in Computer Vision related projects, developing products ce
 
 In my spare time I love to check the latest technology news and make DIY projects.
 
-Also, I love to hike, nature and hanging out with my friends.
+Also, I love to hike, nature, photography and hanging out with my friends.
 
 Happy coding!
